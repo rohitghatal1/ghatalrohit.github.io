@@ -1,0 +1,24 @@
+.photo{
+    background: #6284da;
+}
+.photo img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    width:25%;
+    height:50%;
+    border-radius: 100%;
+}
+.about{
+    font-size: 28px;
+}
+table td{
+    font-size: 20px;
+}
+.table{
+    background: #2278af;
+}
+.bio{
+    background: #1133ff;
+}
